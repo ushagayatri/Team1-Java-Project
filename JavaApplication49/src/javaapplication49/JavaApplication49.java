@@ -9,6 +9,8 @@ package javaapplication49;
  *
  * @author S525045
  */
+
+//this explains enhanced for loop
 public class JavaApplication49 {
 
 //    /**
